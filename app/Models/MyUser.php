@@ -11,6 +11,6 @@ class MyUser extends Model
     protected $fillable = [
         'name',
         'email',
-        'password',
+        'age',
     ];
 }
